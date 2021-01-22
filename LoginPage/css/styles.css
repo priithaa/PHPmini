@@ -1,0 +1,54 @@
+body
+{
+	text-align: center;
+	background-color: gray;
+	margin: 0px;
+}
+
+nav
+{
+	background-color: black;
+	color: white;
+	height: 60px;
+	padding-right: 50px;
+	margin-top: 0px;
+}
+
+nav a
+{
+	color: white;
+	float: left;
+	padding: 14px 16px;
+}
+
+li
+{
+	float: right;
+	list-style: unset;
+    /*padding: 14px 16px;*/
+    list-style-type: none;
+
+}
+
+.announce
+{
+	margin: 50px 0;
+}
+
+.square
+{
+	height: 200px;
+	background-color: white;
+	margin: 5px;
+}
+
+.square h3
+{
+	position: relative;
+	top: 80px;
+}
+
+input
+{
+	margin: 5px;
+}
